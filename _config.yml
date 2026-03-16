@@ -1,3 +1,16 @@
-remote_theme: pages-themes/cayman@v0.2.0
+title: Resilient Rides Brisbane
+description: Fairly priced mobile bike service for the inner east. Reliable mechanical care and e-bike diagnostics delivered to your door.
+baseurl: "/resilient-rides" # Leave as "" if you are using a custom domain or user site (timhildred.github.io)
+url: "https://timhildred.github.io"
+
+# Theme selection (Cayman is a great, clean single-page theme)
+theme: jekyll-theme-cayman
+
+# SEO and AI Agent support
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
+
+# Metadata for social sharing
+twitter:
+  username: TimHildred
+  card: summary_large_image
