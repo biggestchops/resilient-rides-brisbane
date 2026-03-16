@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: Resilient Rides Brisbane
-description: Straightforward mobile bike service for the inner east.
+description: Fairly-priced mobile bike service for the inner east.
 ---
-
 # Resilient Rides Brisbane
-## Straightforward mobile bike service for the inner east
+## Fairly-priced mobile bike service for the inner east
 
 ![The Resilient Rides mobile workshop](assets/images/hero-workshop.jpg)
 
