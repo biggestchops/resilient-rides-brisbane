@@ -4,11 +4,14 @@ baseurl: "/resilient-rides-brisbane" # Leave as "" if you are using a custom dom
 url: "https://biggestchops.github.io"
 
 # Theme selection (Cayman is a great, clean single-page theme)
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 # SEO and AI Agent support
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 # Metadata for social sharing
 twitter:
