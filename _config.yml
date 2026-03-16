@@ -1,7 +1,7 @@
 title: Resilient Rides Brisbane
 description: Fairly priced mobile bike service for the inner east. Reliable mechanical care and e-bike diagnostics delivered to your door.
 baseurl: "/resilient-rides" # Leave as "" if you are using a custom domain or user site (timhildred.github.io)
-url: "https://timhildred.github.io"
+url: "https://biggestchops.github.io"
 
 # Theme selection (Cayman is a great, clean single-page theme)
 theme: jekyll-theme-cayman
