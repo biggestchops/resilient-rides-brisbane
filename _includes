@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Resilient Rides Brisbane",
+  "description": "Mobile bicycle mechanic specializing in commuter and e-bike servicing. Serving East Brisbane, West End, Toowong, and surrounding inner suburbs.",
+  "url": "https://timhildred.com/resilient-rides",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "East Brisbane",
+    "addressRegion": "QLD",
+    "postalCode": "4169",
+    "addressCountry": "AU"
+  },
+  "areaServed": ["East Brisbane", "Kangaroo Point", "New Farm", "Woolloongabba", "West End", "Toowong", "South Brisbane", "Bulimba"],
+  "priceRange": "$$",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "description": "Coming Soon - Mid 2026",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+  }
+}
+</script>
